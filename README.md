@@ -49,9 +49,9 @@ These areas were selected based on conceptual links to stress-related physiologi
 
 A lightweight interface was developed to:
 
-* display live sensor readings
-* visualise stress-related activity
-* provide user feedback in real time
+* Display live sensor readings
+* Visualise stress-related activity
+* Provide user feedback in real time
 
 ---
 
